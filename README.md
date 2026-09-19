@@ -1,14 +1,7 @@
-# Aptitude
+**Vadan** is a Nigerian admission research and guidance platform designed to help JAMB and Direct Entry candidates make better-informed decisions about their university journey.
 
-A single-screen guide for Nigerian students exploring courses, schools, and admission scores.
+Instead of searching through scattered and often confusing admission information, Vadan brings essential details into one simple platform. Students can explore Nigerian institutions and courses, understand admission requirements and subject combinations, check programme duration, review admission policies, and calculate their aggregate or screening scores.
 
-## Run locally
+Built with **Next.js, React, and TypeScript**, Vadan focuses on simplicity, accessibility, and a clean user experience—giving students the information and tools they need without unnecessary complexity.
 
-```bash
-npm install
-npm run dev
-```
-
-Then open http://localhost:3000.
-
-The current school and cutoff values are illustrative UI data. Replace them with the verified records extracted from the supplied PDF before publishing.
+**Research smarter. Understand your options. Make informed admission decisions.**
